@@ -1,0 +1,1181 @@
+.landing-page-landing-page {
+    width: 100%;
+    height: 6232px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .landing-page-navigation {
+    top: 0px;
+    left: 0px;
+    width: 1680px;
+    height: 63px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .landing-page-rectangle1 {
+    top: 0px;
+    left: 0px;
+    width: 1680px;
+    height: 59px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .landing-page-group1 {
+    top: 4px;
+    left: 119px;
+    width: 168px;
+    height: 59px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(241, 230, 230, 1);
+  }
+  .landing-page-text {
+    top: 12px;
+    left: 44.33333206176758px;
+    color: rgba(15, 15, 15, 1);
+    width: 103px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .landing-page-text02 {
+    top: 21px;
+    left: 364px;
+    color: rgba(132, 136, 139, 1);
+    width: 171px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .landing-page-text04 {
+    top: 21px;
+    left: 924px;
+    color: rgba(132, 136, 139, 1);
+    width: 171px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .landing-page-text06 {
+    top: 21px;
+    left: 737.3333129882812px;
+    color: rgba(132, 136, 139, 1);
+    width: 171px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .landing-page-text08 {
+    top: 21px;
+    left: 550.6666870117188px;
+    color: rgba(132, 136, 139, 1);
+    width: 171px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .landing-page-button {
+    top: 9px;
+    left: 1435px;
+    width: 151.6666717529297px;
+    height: 40px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .landing-page-rectangle2 {
+    top: 0px;
+    left: 0px;
+    width: 152px;
+    height: 40px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 6px;
+  }
+  .landing-page-text10 {
+    top: 11px;
+    left: 44.66666793823242px;
+    color: rgba(132, 136, 139, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-button1 {
+    top: 9px;
+    left: 1257.6666259765625px;
+    width: 151.6666717529297px;
+    height: 40px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .landing-page-rectangle21 {
+    top: 0px;
+    left: 0px;
+    width: 152px;
+    height: 40px;
+    position: absolute;
+    border-color: rgba(188, 193, 197, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
+  }
+  .landing-page-text12 {
+    top: 11px;
+    left: 52px;
+    color: rgba(132, 136, 139, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-hero-e {
+    top: 68px;
+    left: 0px;
+    width: 1680px;
+    height: 946px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .landing-page-rectangle {
+    top: 0px;
+    left: 0px;
+    width: 1680px;
+    height: 946px;
+    position: absolute;
+  }
+  .landing-page-thelargestcommunityofphotoenthusiasts {
+    top: 581px;
+    left: 144px;
+    width: 1392px;
+    height: 80px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .landing-page-text14 {
+    color: rgba(0, 0, 0, 1);
+    width: 1392px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: center;
+    line-height: 80px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .landing-page-thelargestcommunityofphotoenthusiasts1 {
+    top: 661px;
+    left: 144px;
+    width: 1392px;
+    height: 80px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .landing-page-text19 {
+    color: rgba(0, 0, 0, 1);
+    width: 1392px;
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 80px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-button2 {
+    top: 783px;
+    left: 744px;
+    width: 192px;
+    height: 52px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .landing-page-rectangle22 {
+    top: 0px;
+    left: 0px;
+    width: 192px;
+    height: 52px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 6px;
+  }
+  .landing-page-text21 {
+    top: 15.300000190734863px;
+    left: 50.21538543701172px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 17px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-group {
+    top: 407px;
+    left: 774px;
+    width: 132px;
+    height: 132px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .landing-page-ellipse {
+    top: 0px;
+    left: 0px;
+    width: 132px;
+    height: 132px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .landing-page-polygon {
+    top: 36px;
+    left: 95px;
+    width: 59px;
+    height: 59px;
+    position: absolute;
+  }
+  .landing-page-subpage-hero-a {
+    top: 1014px;
+    left: 0px;
+    width: 1680px;
+    height: 600px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .landing-page-rectangle01 {
+    top: 84px;
+    left: 932px;
+    width: 600px;
+    height: 440px;
+    position: absolute;
+  }
+  .landing-page-thelargestcommunityofphotoenthusiasts2 {
+    top: 160px;
+    left: 80px;
+    width: 686px;
+    height: 144px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .landing-page-text23 {
+    color: rgba(0, 0, 0, 1);
+    width: 686px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 72px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .landing-page-text25 {
+    top: 304px;
+    left: 80px;
+    color: rgba(0, 0, 0, 1);
+    width: 686px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    align-self: auto;
+    font-style: Light;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 300;
+    line-height: 72px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-group2 {
+    top: 1701px;
+    left: 80px;
+    width: 1600px;
+    height: 669.1109619140625px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .landing-page-text27 {
+    color: rgba(0, 0, 0, 1);
+    width: 1150px;
+    height: auto;
+    position: absolute;
+    font-size: 48px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 72px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .landing-page-button3 {
+    top: 614px;
+    left: 0px;
+    width: 188.88043212890625px;
+    height: 55.110939025878906px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .landing-page-rectangle23 {
+    top: 0px;
+    left: 0px;
+    width: 189px;
+    height: 55px;
+    position: absolute;
+    border-color: rgba(54, 53, 52, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
+  }
+  .landing-page-text29 {
+    top: 15.155508041381836px;
+    left: 37.02290725708008px;
+    color: rgba(21, 22, 22, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-text31 {
+    top: 125px;
+    color: rgba(0, 0, 0, 1);
+    width: 1600px;
+    height: auto;
+    position: absolute;
+    font-size: 38px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 72px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .landing-page-testimonial-a {
+    top: 2393px;
+    left: 0px;
+    width: 1680px;
+    height: 598px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .landing-page-rectangle02 {
+    top: 402px;
+    left: 112px;
+    width: 173px;
+    height: 76px;
+    position: absolute;
+  }
+  .landing-page-rectangle03 {
+    top: 402px;
+    left: 369px;
+    width: 173px;
+    height: 76px;
+    position: absolute;
+  }
+  .landing-page-rectangle04 {
+    top: 402px;
+    left: 625px;
+    width: 173px;
+    height: 76px;
+    position: absolute;
+  }
+  .landing-page-rectangle05 {
+    top: 402px;
+    left: 882px;
+    width: 173px;
+    height: 76px;
+    position: absolute;
+  }
+  .landing-page-rectangle06 {
+    top: 402px;
+    left: 1139px;
+    width: 173px;
+    height: 76px;
+    position: absolute;
+  }
+  .landing-page-rectangle07 {
+    top: 402px;
+    left: 1395px;
+    width: 173px;
+    height: 76px;
+    position: absolute;
+  }
+  .landing-page-thelargestcommunityofphotoenthusiasts3 {
+    top: 120px;
+    left: 144px;
+    width: 1392px;
+    height: 72px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .landing-page-text35 {
+    color: rgba(0, 0, 0, 1);
+    width: 1392px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: center;
+    line-height: 72px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .landing-page-text37 {
+    top: 102px;
+    color: rgba(0, 0, 0, 0.800000011920929);
+    width: 1392px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: center;
+    line-height: 50px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .landing-page-body-e {
+    top: 2991px;
+    left: 0px;
+    width: 1680px;
+    height: 600px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .landing-page-rectangle08 {
+    top: 80px;
+    left: 80px;
+    width: 750px;
+    height: 440px;
+    position: absolute;
+  }
+  .landing-page-text39 {
+    top: 166px;
+    left: 914px;
+    color: rgba(0, 0, 0, 1);
+    width: 686px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 36px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .landing-page-text41 {
+    top: 118px;
+    left: 914px;
+    color: rgba(0, 0, 0, 1);
+    width: 686px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 36px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .landing-page-text43 {
+    top: 239px;
+    left: 914px;
+    color: rgba(0, 0, 0, 1);
+    width: 686px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 36px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-body-f {
+    top: 3591px;
+    left: 0px;
+    width: 1680px;
+    height: 600px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(245, 245, 245, 1);
+  }
+  .landing-page-rectangle09 {
+    top: 80px;
+    left: 850px;
+    width: 750px;
+    height: 440px;
+    position: absolute;
+  }
+  .landing-page-text45 {
+    top: 130px;
+    left: 80px;
+    color: rgba(0, 0, 0, 1);
+    width: 686px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 36px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .landing-page-text47 {
+    top: 184px;
+    left: 80px;
+    color: rgba(0, 0, 0, 1);
+    width: 686px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 36px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-text49 {
+    top: 239px;
+    left: 80px;
+    color: rgba(0, 0, 0, 1);
+    width: 686px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 36px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-body-e1 {
+    top: 4191px;
+    left: 0px;
+    width: 1680px;
+    height: 600px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .landing-page-rectangle10 {
+    top: 80px;
+    left: 80px;
+    width: 750px;
+    height: 440px;
+    position: absolute;
+  }
+  .landing-page-text51 {
+    top: 166px;
+    left: 914px;
+    color: rgba(0, 0, 0, 1);
+    width: 686px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 36px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .landing-page-text53 {
+    top: 118px;
+    left: 914px;
+    color: rgba(0, 0, 0, 1);
+    width: 686px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 36px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .landing-page-text55 {
+    top: 239px;
+    left: 914px;
+    color: rgba(0, 0, 0, 1);
+    width: 686px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 36px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-body-f1 {
+    top: 4791px;
+    left: 0px;
+    width: 1680px;
+    height: 600px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(245, 245, 245, 1);
+  }
+  .landing-page-rectangle11 {
+    top: 80px;
+    left: 850px;
+    width: 750px;
+    height: 440px;
+    position: absolute;
+  }
+  .landing-page-text57 {
+    top: 130px;
+    left: 80px;
+    color: rgba(0, 0, 0, 1);
+    width: 686px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 36px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .landing-page-text59 {
+    top: 184px;
+    left: 80px;
+    color: rgba(0, 0, 0, 1);
+    width: 686px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 36px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-text61 {
+    top: 239px;
+    left: 80px;
+    color: rgba(0, 0, 0, 1);
+    width: 686px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 36px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-signup-c {
+    top: 5391px;
+    left: 0px;
+    width: 1680px;
+    height: 340px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(245, 245, 245, 1);
+  }
+  .landing-page-text63 {
+    top: 120px;
+    left: 80px;
+    color: rgba(0, 0, 0, 0.800000011920929);
+    width: 943px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 50px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .landing-page-button4 {
+    top: 144px;
+    left: 1107px;
+    width: 312px;
+    height: 52px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .landing-page-rectangle24 {
+    top: 0px;
+    left: 0px;
+    width: 312px;
+    height: 52px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 6px;
+  }
+  .landing-page-text65 {
+    top: 15.300000190734863px;
+    left: 59.599998474121094px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 17px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-footer-c {
+    top: 5731px;
+    left: 0px;
+    width: 1680px;
+    height: 501px;
+    display: flex;
+    opacity: 0.83;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .landing-page-frame1 {
+    top: 110px;
+    left: 70px;
+    width: 91px;
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .landing-page-text67 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-text69 {
+    top: 358px;
+    left: 674px;
+    color: rgba(0, 0, 0, 0.800000011920929);
+    width: 333px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-ellipse1 {
+    top: 273px;
+    left: 914px;
+    width: 44px;
+    height: 44px;
+    position: absolute;
+  }
+  .landing-page-ellipse2 {
+    top: 273px;
+    left: 850px;
+    width: 44px;
+    height: 44px;
+    position: absolute;
+  }
+  .landing-page-ellipse3 {
+    top: 273px;
+    left: 786px;
+    width: 44px;
+    height: 44px;
+    position: absolute;
+  }
+  .landing-page-ellipse4 {
+    top: 273px;
+    left: 721px;
+    width: 44px;
+    height: 44px;
+    position: absolute;
+  }
+  .landing-page-text71 {
+    top: 120px;
+    left: 273px;
+    color: rgba(0, 0, 0, 1);
+    width: 173px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-text73 {
+    top: 120px;
+    left: 464px;
+    color: rgba(0, 0, 0, 1);
+    width: 173px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-text75 {
+    top: 120px;
+    left: 1043px;
+    color: rgba(0, 0, 0, 1);
+    width: 173px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: right;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-text77 {
+    top: 120px;
+    left: 1236px;
+    color: rgba(0, 0, 0, 1);
+    width: 173px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: right;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-text79 {
+    top: 120px;
+    left: 1427px;
+    color: rgba(0, 0, 0, 1);
+    width: 173px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: right;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .landing-page-rectangle12 {
+    top: 192px;
+    left: 80px;
+    width: 1520px;
+    height: 1px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .landing-page-group11 {
+    top: 110px;
+    left: 710px;
+    width: 168px;
+    height: 59px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(241, 230, 230, 1);
+  }
+  .landing-page-text81 {
+    top: 12px;
+    left: 44.33333206176758px;
+    color: rgba(15, 15, 15, 1);
+    width: 103px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  @media(max-width: 1600px) {
+    .landing-page-polygon {
+      top: 36px;
+      left: 52px;
+      position: absolute;
+    }
+    .landing-page-text31 {
+      color: rgb(0, 0, 0);
+      font-size: 38px;
+      font-family: Montserrat;
+      font-weight: 400;
+      line-height: 72px;
+      text-decoration: none;
+    }
+  }
+  
